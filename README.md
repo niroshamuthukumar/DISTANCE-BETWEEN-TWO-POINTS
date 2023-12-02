@@ -22,7 +22,8 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![Alt text](image-1.png)
+![image](https://github.com/niroshamuthukumar/DISTANCE-BETWEEN-TWO-POINTS/assets/151830921/80c4089f-12ce-4c03-8587-abde4d889ce7)
+
 
 ### RESULT:
 thus the DISTANCE-BETWEEN-TWO-POINTS are ececuted successfully
